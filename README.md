@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning robotics and machine learning
 - 📫 How to reach me: dm me
 
+Website: https://washindeiru.github.io/
 <!---
 WaShindeiru/WaShindeiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
