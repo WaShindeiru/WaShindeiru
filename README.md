@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning robotics and machine learning
 - 📫 How to reach me: dm me
 
-Website: https://washindeiru.github.io/
-
 fork:https://github.com/WaShindeiru/models
 
 https://github.com/tensorflow/models/tree/master/research/deeplab
